@@ -1,3 +1,3 @@
 # Sasfi12.github.io
 
-# My website : sufyan12.com
+# [My website](sufyan12.com)
